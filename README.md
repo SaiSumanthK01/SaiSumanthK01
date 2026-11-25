@@ -12,7 +12,7 @@ building high-performance applications through gpu computing, parallel processin
 <a href="https://www.linkedin.com/in/sai-sumanth-kolluri-767132346/">
   <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/SaiSumanthK01">
   <img src="https://img.shields.io/badge/github-follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -88,6 +88,6 @@ building high-performance applications through gpu computing, parallel processin
 
 <a href="https://www.linkedin.com/in/sai-sumanth-kolluri-767132346/">linkedin</a>
 &nbsp; | &nbsp;
-<a href="https://github.com/YOUR-GITHUB-USERNAME">github</a>
+<a href="https://github.com/SaiSumanthK01">github</a>
 
 </div>
