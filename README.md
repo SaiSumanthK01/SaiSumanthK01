@@ -3,7 +3,7 @@
 
 # sai sumanth kolluri
 
-### gpu programming | software engineer | backend developer
+###  | software engineer | backend developer
 
 building high-performance applications through gpu computing, parallel processing, and backend engineering.
 
