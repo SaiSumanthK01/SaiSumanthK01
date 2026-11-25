@@ -68,52 +68,6 @@ building high-performance applications through gpu computing, parallel processin
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### cuda vector benchmark
-
-<img src="https://img.shields.io/badge/cuda-c++-76B900?style=flat-square" />
-
-a gpu benchmarking project comparing cpu and gpu vector addition performance.
-
-**key features**
-- cpu and gpu execution comparison
-- cuda kernel execution timing
-- speedup calculation
-- effective memory bandwidth
-- csv benchmark output
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME/cuda-vector-benchmark">view project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### gpu kernel optimization
-
-<img src="https://img.shields.io/badge/performance-engineering-333333?style=flat-square" />
-
-exploring gpu workload performance and optimization techniques.
-
-**key areas**
-- gpu memory optimization
-- kernel launch overhead
-- performance profiling
-- parallel workload analysis
-- benchmarking
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">view repositories →</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ## areas of interest
 
